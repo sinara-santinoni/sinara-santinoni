@@ -36,20 +36,7 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS)** e focada em
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
----
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sinara-santinoni&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinara-santinoni&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sinara-santinoni&theme=radical" alt="GitHub Streak" />
-</div>
-
----
 
 ## 🚀 Projetos em Destaque
 
