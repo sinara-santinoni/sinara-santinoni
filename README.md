@@ -7,7 +7,7 @@
 🎓 Em transição para TI, focada em Testes e Qualidade  
 💻 Estudante de ADS, buscando estágio para aplicar conhecimentos  
 🧪 Apaixonada por aprendizado contínuo, mesmo quando os desafios são complexos  
-📧 Contato: [seu.email@gmail.com](mailto:seu.email@gmail.com)  
+📧 Contato: sinarassantinoni@gmail.com  
 😊 Pronomes: Ela/Dela  
 📍 Tubarão, SC
 
