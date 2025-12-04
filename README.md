@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Olá!%20👋&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://github.com/sinara-santinoni/sinara-santinoni/blob/main/IMG_4857.JPG?raw=1" width="180" style="border-radius: 50%;" />
 </div>
 
 # Olá, eu sou Sinara Santinoni! 👩‍💻
