@@ -73,26 +73,3 @@ Plataforma de streaming (projeto acadêmico)
 
 </div>
 
----
-
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=sinara-santinoni&color=blueviolet&style=flat-square)
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
-
----
-
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=sinara-santinoni&color=blueviolet&style=flat-square)
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
